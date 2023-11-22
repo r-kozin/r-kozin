@@ -2,8 +2,9 @@
 
 <p>Hey, I'm Ryan, a passionate front-end and full-stack developer dedicated to crafting captivating digital worlds. My coding journey is an exciting quest, driven by a thirst for innovation and a deep love for all things web-related. I thrive on challenges and view change as a chance for continuous growth. Collaboration is my jam, so let's team up and redefine the digital landscape together! 💻🌐🚀</p>
 
-- 🚧 Currently working on a link shortener 🔗
+- 🚧 Currently working on a few projects! 🗃️
 - 💬 Ask me about my recent projects!
+    - 🔗 Link Shortener (pinned below)
     - 💬 Social Media App (pinned below)
     - 📈 Stock Quote Web App (pinned below)
     - 🗂️ Employee Directory Full Stack App (pinned below)
